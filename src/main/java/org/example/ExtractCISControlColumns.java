@@ -41,7 +41,6 @@ public class ExtractCISControlColumns {
     @Override
     public String toString() {
         return "ExtractCISControlColumns{" +
-                "control='" + control + '\'' +
                 ", description='" + description + '\'' +
                 '}';
     }

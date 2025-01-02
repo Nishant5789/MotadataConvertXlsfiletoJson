@@ -360,7 +360,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/security/s1/sec-cr-t2-z.html#GUID-34B3E43E-0F79-40E8-82B6-A4B5F1AFF1AD",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -422,7 +421,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/fundamentals/command/D_through_E.html#GUID-429A2B8C-FC26-49C4-94C4-0FD99C32EC34",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -639,7 +637,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "NIST SP 800-53 :: AC-10:https://www.tenable.com/audits/items/DISA_STIG_Cisco_IOS_XE_Switch_NDM_v2r1.audit:392b7a414732407810fa9d87c5a0d581",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1042,7 +1039,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/snmp/command/nm-snmp-cr-book.html",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1073,7 +1069,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/snmp/command/nm-snmp-cr-s2.html#GUID-2F3F13E4-EE81-4590-871D-6AE1043473DE",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1104,7 +1099,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/snmp/command/nm-snmp-cr-s2.html#GUID-2F3F13E4-EE81-4590-871D-6AE1043473DE",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1135,7 +1129,6 @@
   "ruleDefaultValue" : "",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/snmp/command/nm-snmp-cr-s2.html#GUID-2F3F13E4-EE81-4590-871D-6AE1043473DE",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1290,7 +1283,6 @@
   "ruleDefaultValue" : "No SNMP server groups are configured.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/snmp/command/nm-snmp-cr-s5.html#GUID-56E87D02-C56F-4E2D-A5C8-617E31740C3F",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1414,7 +1406,6 @@
   "ruleDefaultValue" : "Enabled on all platforms except the Cisco 10000 Series Edge Services Router",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/cdp/command/cdp-cr-a1.html#GUID-E006FAC8-417E-4C3F-B732-4D47B0447750",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1445,7 +1436,6 @@
   "ruleDefaultValue" : "Enabled",
   "ruleReferences" : "Cisco IOS software receives Cisco Discovery Protocol information",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1476,7 +1466,6 @@
   "ruleDefaultValue" : "Enabled by default, but also requires a DHCP pool to be set to activate the DHCP server.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/ipaddr/command/ipaddr-r1.html#GUID-1516B259-AA28-4839-B968-8DDBF0B382F6",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1507,7 +1496,6 @@
   "ruleDefaultValue" : "Disabled by default",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/solutions/Enterprise/Security/Baseline_Security/sec_chap4.html#wp1056539",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1538,7 +1526,6 @@
   "ruleDefaultValue" : "Disabled by default.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/fundamentals/command/R_through_setup.html#GUID-1489ABA3-2428-4A64-B252-296A035DB85E",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1569,7 +1556,6 @@
   "ruleDefaultValue" : "Disabled by default.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/fundamentals/command/R_through_setup.html#GUID-9321ECDC-6284-4BF6-BA4A-9CEEF5F993E5",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1600,7 +1586,6 @@
   "ruleDefaultValue" : "Enabled by default.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/wan/command/wan-s1.html#GUID-C5497B77-3FD4-4D2F-AB08-1317D5F5473B",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1662,7 +1647,6 @@
   "ruleDefaultValue" : "SSH is not enabled by default. When enabled, SSH operates in compatibility mode (versions 1 and 2 supported).",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/security/d1/sec-cr-i3.html#GUID-170AECF1-4B5B-462A-8CC8-999DEDC45C21",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1724,7 +1708,6 @@
   "ruleDefaultValue" : "The default hostname is Router.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/fundamentals/command/F_through_K.html#GUID-F3349988-EC16-484A-BE81-4C40110E6625",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1755,7 +1738,6 @@
   "ruleDefaultValue" : "No domain is set.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/ipaddr/command/ipaddr-i3.html#GUID-A706D62B-9170-45CE-A2C2-7B2052BE2CAB",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -1848,7 +1830,6 @@
   "ruleDefaultValue" : "SSH is not enabled by default. When set, the default value is 3.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/security/d1/sec-cr-i3.html#GUID-5BAC7A2B-0A25-400F-AEE9-C22AE08513C6",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2437,7 +2418,6 @@
   "ruleDefaultValue" : "There are no loopback interfaces defined by default.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/interface/command/ir-i1.html#GUID-0D6BDFCD-3FBB-4D26-A274-C1221F8592DF",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2530,7 +2510,6 @@
   "ruleDefaultValue" : "The address of the closest interface to the destination is selected as the source address.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/fundamentals/command/F_through_K.html#GUID-9AA27050-A578-47CD-9F1D-5A8E2B449209",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2623,7 +2602,6 @@
   "ruleDefaultValue" : "Enabled by default",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/ipaddr/command/ipaddr-i4.html#GUID-C7F971DD-358F-4B43-9F3E-244F5D4A3A93",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2654,7 +2632,6 @@
   "ruleDefaultValue" : "Enabled",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/ipaddr/command/ipaddr-i4.html#GUID-AEB7DDCB-7B3D-4036-ACF0-0A0250F3002E",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2685,7 +2662,6 @@
   "ruleDefaultValue" : "No tunnel interfaces are defined",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/interface/command/ir-i1.html#GUID-0D6BDFCD-3FBB-4D26-A274-C1221F8592DF",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2716,7 +2692,6 @@
   "ruleDefaultValue" : "Unicast RPF is disabled.",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/security/d1/sec-cr-i3.html#GUID-2ED313DB-3D3F-49D7-880A-047463632757:https://community.cisco.com/t5/routing/ip-verify-unicast-source-reachable-via-rx/td-p/1710172",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2778,7 +2753,6 @@
   "ruleDefaultValue" : "No access list defined",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/security/d1/sec-cr-i1.html#GUID-BD76E065-8EAC-4B32-AF25-04BA94DD2B11",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -2809,7 +2783,6 @@
   "ruleDefaultValue" : "No access-group defined",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/interface/command/ir-i1.html#GUID-0D6BDFCD-3FBB-4D26-A274-C1221F8592DF:http://www.cisco.com/en/US/docs/ios-xml/ios/security/d1/sec-cr-i1.html#GUID-D9FE7E44-7831-4C64-ACB8-840811A0C993",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -3212,7 +3185,6 @@
   "ruleDefaultValue" : "Not set",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/iproute_ospf/command/ospf-i1.html#GUID-3D5781A3-F8DF-4760-A551-6A3AB80A42ED:http://www.cisco.com/en/US/docs/ios-xml/ios/iproute_ospf/command/ospf-a1.html#GUID-81D0F753-D8D5-494E-9A10-B15433CFD445",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -3243,7 +3215,6 @@
   "ruleDefaultValue" : "Not set",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/interface/command/ir-i1.html#GUID-0D6BDFCD-3FBB-4D26-A274-C1221F8592DF:http://www.cisco.com/en/US/docs/ios-xml/ios/iproute_ospf/command/ospf-i1.html#GUID-939C79FF-8C09-4D5A-AEB5-DAF25038CA18",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]
@@ -3305,7 +3276,6 @@
   "ruleDefaultValue" : "Not set",
   "ruleReferences" : "http://www.cisco.com/en/US/docs/ios-xml/ios/iproute_bgp/command/bgp-n1.html#GUID-A8900842-ECF3-42D3-B188-921BE0EC060B:http://www.cisco.com/en/US/docs/ios-xml/ios/iproute_bgp/command/bgp-m1.html#GUID-159A8006-F0DF-4B82-BB71-C39D2C134205",
   "ruleControls" : [ {
-    "ruleControlVersion" : "0.0",
     "ruleControlName" : "v8",
     "ruleControlDescription" : "Explicitly Not Mapped",
     "ruleControlIg" : [ ]

@@ -45,7 +45,6 @@ public class Main {
 
                     // Extract only the required fields and map them to ResultObject
                     RuleContext rulecontext = new RuleContext();
-
                     if (rowMap.get("Rule configuration") != null) {
                         rulecontext.setRuleCheckCategory(rowMap.get("Rule configuration"));
                     }
@@ -53,18 +52,11 @@ public class Main {
                         rulecontext.setRuleCheckType(rowMap.get("Rule Check in"));
                     }
                     if (rowMap.get("conditions") != null) {
-                        rulecontext.setCondition(rowMap.get("conditions"));
                     }
                     if (rowMap.get("result.pattern") != null) {
-                        rulecontext.setResultPattern(rowMap.get("result.pattern"));
                     }
-
-
                     if ("any".equals(rowMap.get("occurence"))) {
-//                        System.out.println(rowMap.get("occurence"));
-                        rulecontext.setOccurence(-1);
                     }
-                    rulecontext.setOperator(rowMap.get("operator"));
 
                     RuleControl ruleControl1 = new RuleControl();
                     RuleControl ruleControl2 = new RuleControl();
@@ -74,14 +66,11 @@ public class Main {
 
 //                    System.out.println(Ciscontrolobject1);
 
-                    ruleControl1.setRuleControlVersion(rowMap.get("CIS Safeguards 1 (v8)"));
-                    ruleControl1.setRuleControlName(Ciscontrolobject1.getControl());
                     ruleControl1.setRuleControlDescription(Ciscontrolobject1.getDescription());
 
                     if(rowMap.get("CIS Safeguards 1 (v7)") != null){
                         ruleControl2.setRuleControlVersion(rowMap.get("CIS Safeguards 1 (v7)"));
                     }
-                    ruleControl2.setRuleControlName(Ciscontrolobject2.getControl());
                     ruleControl2.setRuleControlDescription(Ciscontrolobject2.getDescription());
 
                     String igValue11 = rowMap.get("v8 IG1");
@@ -133,10 +122,6 @@ public class Main {
                 }
             }
 
-//            resultList.forEach(System.out::println);
-            File outputfile = new File("outputfile.json");
-            objectMapper.writeValue(outputfile, resultList);
-            System.out.println("JSON file created successfully: " + outputfile.getAbsolutePath());
 
         } catch (IOException e) {
             System.err.println("Error while reading the CSV: " + e.getMessage());
@@ -158,6 +143,5 @@ public class Main {
         }
         return result;
     }
-
 
 }

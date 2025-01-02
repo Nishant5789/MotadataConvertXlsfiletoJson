@@ -25,7 +25,6 @@ public class Rule {
         return id;
     }
 
-
     public String getRuleName() {
         return ruleName;
     }
